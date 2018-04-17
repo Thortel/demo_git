@@ -1,2 +1,5 @@
-# demo_git
-Une demo de git
+	1 demo.git
+	2
+	3
+	4 une démo de git qui se passe bien
+	
